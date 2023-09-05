@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Claudio Lasalde",
   "license": "ISC",
   "type": "module",
   "dependencies": {
